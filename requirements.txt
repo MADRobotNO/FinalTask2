@@ -1,0 +1,8 @@
+numpy
+dash
+pandas
+plotly
+statsmodels
+geopy
+jupyter
+isoweek
